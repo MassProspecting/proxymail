@@ -1,0 +1,15 @@
+GIT
+  remote: https://github.com/livebg/tmail
+  revision: 156113660843656b9001cc412c56e7e60dc97bc4
+  specs:
+    tmail (1.2.7.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  tmail!
